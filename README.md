@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 🌱 I’m currently Studying 
 
-📫 How to reach me: facebook.com/springbootloop
+📫 How to reach me?
+Facebook : facebook.com/springbootloop 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=grimeo&count_private=true&theme=tokyonight&showicons=true)]()
 
